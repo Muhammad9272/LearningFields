@@ -1,0 +1,12 @@
+
+
+.hero-mask {
+  mask-image: linear-gradient(to right, transparent 0%, black 25%);
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 25%);
+}
+
+/* aligns content with logo TEXT (not icon) */
+.align-with-logo {
+  padding-left: calc(2.5rem + 0.75rem); /* 40px icon + 12px gap */
+}
+

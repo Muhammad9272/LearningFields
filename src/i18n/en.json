@@ -1,0 +1,388 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "For Parents",
+    "schools": "For Schools",
+    "about": "About",
+    "contact": "Contact",
+    "resources": "Resource Library",
+    "bookMeeting": "Book a Meeting"
+  },
+  "auth": {
+    "welcomeBack": "Welcome Back",
+    "signInSubtitle": "Sign in to continue your learning journey",
+    "email": "Email address",
+    "password": "Password",
+    "remember": "Remember me",
+    "forgot": "Forgot password?",
+    "signIn": "Sign In",
+    "createAccount": "Create an Account"
+  },
+   "header": {
+    "brandTitle": "The Learning Field",
+    "brandSubtitle": "Guidance",
+
+    "nav": {
+      "home": "Home",
+      "services": "For Parents",
+      "schools": "For Schools",
+      "about": "About",
+      "contact": "Contact",
+      "resources": "Resource Library"
+    },
+
+    "actions": {
+      "bookMeeting": "Book a Meeting"
+    },
+
+    "language": {
+      "en": "EN",
+      "de": "DE"
+    }
+  },
+   "footer": {
+    "brandTitle": "The Learning Field",
+    "tagline": "Guidance for growing minds.",
+    "cta": {
+      "getInTouch": "Get in Touch"
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "links": {
+        "approach": "Our Approach",
+        "services": "For Parents",
+        "resources": "Resources"
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "emailLabel": "Email",
+      "phoneLabel": "Phone",
+      "email": "info@thelearningfield.education",
+      "phone": "+43 19 123 456 7"
+    },
+    "social": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter",
+      "youtube": "YouTube"
+    }
+  },
+   "hero": {
+    "title": "Support for autistic children, children with ADHD, and other neurodivergent learners in everyday school life.",
+    "description": "We support children in their academic and personal development and work closely with educators and families to create school environments that are more supportive, clear, and sustainable for everyone involved.",
+    "cta": {
+      "approach": "Our Approach",
+      "contact": "Contact Us"
+    },
+    "boxes": {
+      "parents": "For Parents",
+      "schools": "For Schools"
+    },
+    "imageAlt": "Children learning together"
+  },
+  "philosophy": {
+    "eyebrow": "Our Philosophy",
+    "title": "Learning should be a field of possibilities.",
+    "learnMore": "Learn More",
+    "cards": [
+      {
+        "title": "Individual Growth",
+        "description": "We focus on strengths and unique growth paths."
+      },
+      {
+        "title": "Empathy & Respect",
+        "description": "We value safety, trust, and nonjudgmental understanding."
+      },
+      {
+        "title": "Science & Practice",
+        "description": "We use evidence-based methods grounded in care."
+      }
+    ]
+  },
+  "help": {
+    "title": "How We Can Help",
+    "learnMore": "Learn More",
+    "cards": [
+      {
+        "title": "Practical Support for Schools",
+        "description": "Guidance and strategies for teachers and staff."
+      },
+      {
+        "title": "Tailored Therapy for Families",
+        "description": "Personalized sessions to support your child's needs."
+      }
+    ]
+  },
+  "testimonial": {
+    "quote": "Our child's learning experience has been truly transformative thanks to the compassionate and customized approach.",
+    "author": "— Parent at The Learning Field"
+  },
+    "services": {
+    "pageTitle": "For Parents",
+    "pageDescription": "Comprehensive educational support designed to meet the unique needs of every learner, with a focus on neurodiversity and personalized growth.",
+
+    "items": [
+      {
+        "icon": "fa-graduation-cap",
+        "title": "One-on-One Tutoring",
+        "description": "Personalized learning sessions tailored to each student's pace, style, and academic goals with specialized support for neurodivergent learners."
+      },
+      {
+        "icon": "fa-users",
+        "title": "Group Workshops",
+        "description": "Small group sessions focused on collaborative learning, social skills development, and peer support in inclusive environments."
+      },
+      {
+        "icon": "fa-chart-line",
+        "title": "Progress Tracking",
+        "description": "Continuous assessment and detailed progress reports to monitor academic growth and adjust support strategies as needed."
+      },
+      {
+        "icon": "fa-brain",
+        "title": "Neurodiversity Support",
+        "description": "Specialized guidance for autism, ADHD, dyslexia, and other learning differences with evidence-based strategies."
+      },
+      {
+        "icon": "fa-handshake",
+        "title": "Parent Consultation",
+        "description": "Partnership meetings with parents to discuss learning strategies, progress, and develop collaborative support plans."
+      },
+      {
+        "icon": "fa-book",
+        "title": "Curriculum Design",
+        "description": "Custom learning paths and materials designed specifically for individual learning profiles and educational objectives."
+      }
+    ],
+
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Book a consultation with us to discuss how we can support your child's learning journey.",
+      "button": "Get in Touch"
+    }
+  },
+    "schools": {
+    "pageTitle": "For Schools & Educators",
+    "pageDescription": "Partner with us to create inclusive learning environments that support all students, including those who are neurodivergent or have unique learning needs.",
+
+    "solutionsTitle": "Our School Solutions",
+    "solutions": [
+      {
+        "title": "Teacher Training Programs",
+        "description": "Professional development workshops to help educators understand neurodiversity and implement inclusive teaching strategies.",
+        "features": [
+          "Understanding autism and ADHD in the classroom",
+          "Differentiated instruction techniques",
+          "Creating sensory-friendly environments"
+        ]
+      },
+      {
+        "title": "Resource Library Access",
+        "description": "Comprehensive collection of evidence-based materials, lesson plans, and assessment tools specifically designed for neurodivergent learners.",
+        "features": [
+          "Customizable lesson plans",
+          "Assessment frameworks",
+          "Accommodation guides"
+        ]
+      },
+      {
+        "title": "On-Campus Support Services",
+        "description": "Direct support for students within your school, including educational assessments, intervention planning, and student counseling.",
+        "features": [
+          "Learning assessments",
+          "Intervention planning",
+          "Student support sessions"
+        ]
+      },
+      {
+        "title": "School Consultation",
+        "description": "Strategic partnership to develop school-wide inclusion policies and create systems that support diverse learners.",
+        "features": [
+          "Policy development",
+          "Environment assessments",
+          "Staff coaching"
+        ]
+      }
+    ],
+
+    "whyTitle": "Why Partner With The Learning Field?",
+    "stats": [
+      {
+        "value": "100+",
+        "label": "Educational Institutions"
+      },
+      {
+        "value": "15+",
+        "label": "Years of Experience"
+      },
+      {
+        "value": "5000+",
+        "label": "Students Supported"
+      }
+    ],
+
+    "cta": {
+      "title": "Let's Transform Your School",
+      "description": "Contact us to discuss how we can support your school's commitment to inclusive, equitable education.",
+      "button": "Get in Touch"
+    }
+  },
+   "about": {
+    "pageTitle": "About The Learning Field",
+    "pageDescription": "Our mission is to create a world where every child can learn in their own way, at their own pace, with support that honors their unique strengths and needs.",
+
+    "story": {
+      "title": "About",
+      "paragraphs": [
+        "The Learning Field was founded on the belief that every child deserves an education that honors their individual needs, strengths, and learning profile.",
+        "Early on, the founder recognized a significant gap in specialized, school-connected support for neurodivergent learners—particularly at the intersection of school, family, and everyday life. This insight led to the creation of The Learning Field: a practice grounded in respect, professional expertise, and evidence-based approaches.",
+        "The work of The Learning Field is shaped by both lived and professional experience. The founder is herself ADHD-identifying (diagnosed later in life) and a mother of two neurodivergent children. Since 2016, she has worked as an early childhood and elementary educator in Switzerland, with extensive experience in classroom management, school systems, and close collaboration with families. She also brings leadership experience from school administration, along with advanced professional training in school development, educational leadership, ADHD, and autism—including training completed in the United States.",
+        "Today, The Learning Field partners with educators, schools, and families to support a deeper understanding of neurodivergent children and to create practical, supportive strategies for everyday school life. The approach continues to evolve and is informed by current research in neurodiversity and education—so that the \"learning field\" of possibilities can grow for children and the adults who support them."
+      ],
+      "imageAlt": "Sabina Demuth, Founder"
+    },
+
+    "values": {
+      "title": "Our Core Values",
+      "items": [
+        {
+          "icon": "fa-heart",
+          "title": "Compassion",
+          "description": "We approach every learner with empathy and understanding, recognizing their unique journey."
+        },
+        {
+          "icon": "fa-flask",
+          "title": "Evidence-Based",
+          "description": "Our methods are grounded in research and best practices in neurodiversity and education."
+        },
+        {
+          "icon": "fa-star",
+          "title": "Inclusive",
+          "description": "We celebrate neurodiversity and individual differences as essential strengths."
+        },
+        {
+          "icon": "fa-handshake",
+          "title": "Partnership",
+          "description": "We work collaboratively with families and schools to ensure cohesive support."
+        }
+      ]
+    },
+
+    "team": {
+      "title": "Leadership",
+      "founder": {
+        "name": "Sabina Demuth",
+        "role": "Founder & Lead Family Coach",
+        "bio": "Educator with extensive experience in classroom management, school development, and educational leadership. Specialized in supporting children with ADHD and autism, with a strong focus on collaboration between schools and families. The Learning Field is professionally led and guided by me. For specific questions or areas of expertise, I collaborate with selected external professionals and institutions as needed.",
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400"
+      }
+    },
+
+    "cta": {
+      "title": "Join Our Community",
+      "description": "Whether you're a student, parent, educator, or school leader, we'd love to connect with you and explore how we can support your unique learning journey.",
+      "button": "Get in Touch"
+    }
+  },
+   "contact": {
+    "pageTitle": "Get in Touch",
+    "pageDescription": "We'd love to hear from you. Reach out to discuss how we can support your learning journey or your school's educational goals.",
+
+    "form": {
+      "title": "Send us a Message",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "placeholders": {
+        "name": "Your name",
+        "email": "your@email.com",
+        "message": "Tell us more about your inquiry..."
+      },
+      "subjects": [
+        "Student Support",
+        "School Partnership",
+        "General Inquiry",
+        "Other"
+      ],
+      "submit": "Send Message"
+    },
+
+    "services": {
+      "title": "Services Offered",
+      "items": [
+        {
+          "title": "School Coaching & Professional Development",
+          "description": "Coaching and professional learning opportunities for schools and educators. Services are offered internationally, with a primary focus on German-speaking educational contexts.",
+          "icon": "fa-school"
+        },
+        {
+          "title": "Parent Coaching & Family Support",
+          "description": "International online coaching and guidance for families, available in both English and German.",
+          "icon": "fa-heart"
+        },
+        {
+          "title": "Formats",
+          "description": "Coaching and consultations are primarily conducted online. In-person services for schools are available by arrangement. I am based in Colorado and Los Angeles and am available for in-person coaching upon request.",
+          "icon": "fa-video"
+        }
+      ]
+    },
+
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How do I schedule a consultation?",
+          "a": "You can book a meeting directly through our website using the 'Book a Meeting' button or contact us via email. We typically respond within 24 hours."
+        },
+        {
+          "q": "What areas do you serve?",
+          "a": "We provide services in Vienna and surrounding regions, with flexible online support options available globally."
+        },
+        {
+          "q": "Do you offer online sessions?",
+          "a": "Yes! We offer a hybrid model with both in-person and online sessions tailored to your family's or school's needs."
+        },
+        {
+          "q": "What is your cancellation policy?",
+          "a": "We understand plans change. We request 24 hours notice for cancellations to allow other students to use the time slot."
+        }
+      ]
+    }
+  },
+  "register": {
+    "title": "Create Account",
+    "subtitle": "Begin your journey to mastery",
+
+    "form": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "passwordHint": "Minimum 8 characters with letters and numbers",
+
+      "placeholders": {
+        "name": "John Doe",
+        "email": "you@example.com",
+        "password": "••••••••"
+      },
+
+      "terms": {
+        "text": "I agree to the",
+        "terms": "Terms of Service",
+        "and": "and",
+        "privacy": "Privacy Policy"
+      },
+
+      "submit": "Sign Up",
+      "divider": "Or",
+      "google": "Sign up with Google",
+      "footer": {
+        "text": "Already have an account?",
+        "link": "Sign in"
+      }
+    }
+  }
+}

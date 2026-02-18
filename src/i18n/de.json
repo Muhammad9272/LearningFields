@@ -1,0 +1,391 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "services": "Für Eltern",
+    "schools": "Für Schulen",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "resources": "Ressourcenbibliothek",
+    "bookMeeting": "Termin buchen"
+  },
+  "auth": {
+    "welcomeBack": "Willkommen zurück",
+    "signInSubtitle": "Melden Sie sich an, um fortzufahren",
+    "email": "E-Mail-Adresse",
+    "password": "Passwort",
+    "remember": "Angemeldet bleiben",
+    "forgot": "Passwort vergessen?",
+    "signIn": "Anmelden",
+    "createAccount": "Konto erstellen"
+  },
+  
+  "header": {
+    "brandTitle": "The Learning Field",
+    "brandSubtitle": "Begleitung",
+
+    "nav": {
+      "home": "Startseite",
+      "services": "Für Eltern",
+      "schools": "Für Schulen",
+      "about": "Über uns",
+      "contact": "Kontakt",
+      "resources": "Ressourcenbibliothek"
+    },
+
+    "actions": {
+      "bookMeeting": "Termin buchen"
+    },
+
+    "language": {
+      "en": "EN",
+      "de": "DE"
+    }
+  },
+    "footer": {
+    "brandTitle": "The Learning Field",
+    "tagline": "Begleitung für wachsende Köpfe.",
+    "cta": {
+      "getInTouch": "Kontakt aufnehmen"
+    },
+    "quickLinks": {
+      "title": "Schnellzugriff",
+      "links": {
+        "approach": "Unser Ansatz",
+        "services": "Für Eltern",
+        "resources": "Ressourcen"
+      }
+    },
+    "contact": {
+      "title": "Kontakt",
+      "emailLabel": "E-Mail",
+      "phoneLabel": "Telefon",
+      "email": "info@thelearningfield.education",
+      "phone": "+43 19 123 456 7"
+    },
+    "social": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter",
+      "youtube": "YouTube"
+    }
+  },
+  "hero": {
+    "title": "Begleitung für autistische Kinder, Kinder mit ADHS und andere neurodivergente Lernende im Schulalltag.",
+    "description": "Wir unterstützen Kinder in ihrer schulischen und persönlichen Entwicklung und arbeiten dabei mit Lehrpersonen und Familien zusammen, um den Alltag für alle Beteiligten entlastender und verständlicher zu gestalten.",
+    "cta": {
+      "approach": "Unser Ansatz",
+      "contact": "Kontakt"
+    },
+    "boxes": {
+      "parents": "Für Eltern",
+      "schools": "Für Schulen"
+    },
+    "imageAlt": "Kinder lernen gemeinsam"
+  },
+  "philosophy": {
+    "eyebrow": "Unsere Philosophie",
+    "title": "Lernen sollte ein Feld voller Möglichkeiten sein.",
+    "learnMore": "Mehr erfahren",
+    "cards": [
+      {
+        "title": "Individuelles Wachstum",
+        "description": "Wir konzentrieren uns auf Stärken und individuelle Entwicklungswege."
+      },
+      {
+        "title": "Empathie & Respekt",
+        "description": "Wir schätzen Sicherheit, Vertrauen und eine wertfreie Haltung."
+      },
+      {
+        "title": "Wissenschaft & Praxis",
+        "description": "Wir nutzen evidenzbasierte Methoden, die von Fürsorge getragen sind."
+      }
+    ]
+  },
+  "help": {
+    "title": "Wie wir helfen können",
+    "learnMore": "Mehr erfahren",
+    "cards": [
+      {
+        "title": "Praktische Unterstützung für Schulen",
+        "description": "Begleitung und Strategien für Lehrkräfte und Schulpersonal."
+      },
+      {
+        "title": "Individuelle Unterstützung für Familien",
+        "description": "Personalisierte Sitzungen, die auf die Bedürfnisse Ihres Kindes abgestimmt sind."
+      }
+    ]
+  },
+   "testimonial": {
+    "quote": "Die Lernerfahrung unseres Kindes war dank des einfühlsamen und individuell angepassten Ansatzes wirklich transformierend.",
+    "author": "— Elternteil bei The Learning Field"
+  },
+  "services": {
+    "pageTitle": "Für Eltern",
+    "pageDescription": "Ganzheitliche Bildungsunterstützung, die auf die individuellen Bedürfnisse jedes Lernenden zugeschnitten ist – mit Fokus auf Neurodiversität und persönliches Wachstum.",
+
+    "items": [
+      {
+        "icon": "fa-graduation-cap",
+        "title": "Einzelunterricht",
+        "description": "Individuelle Lerneinheiten, angepasst an Tempo, Lernstil und Ziele jedes Kindes – mit spezieller Unterstützung für neurodivergente Lernende."
+      },
+      {
+        "icon": "fa-users",
+        "title": "Gruppenworkshops",
+        "description": "Kleingruppensitzungen mit Fokus auf kooperatives Lernen, soziale Kompetenzen und gegenseitige Unterstützung."
+      },
+      {
+        "icon": "fa-chart-line",
+        "title": "Fortschrittsbegleitung",
+        "description": "Kontinuierliche Beobachtung und detaillierte Berichte zur Förderung und Anpassung der Lernstrategien."
+      },
+      {
+        "icon": "fa-brain",
+        "title": "Neurodiversitäts-Unterstützung",
+        "description": "Fachliche Begleitung bei Autismus, ADHS, Dyslexie und weiteren Lernbesonderheiten mit evidenzbasierten Methoden."
+      },
+      {
+        "icon": "fa-handshake",
+        "title": "Elternberatung",
+        "description": "Partnerschaftliche Gespräche mit Eltern zur gemeinsamen Entwicklung unterstützender Lernstrategien."
+      },
+      {
+        "icon": "fa-book",
+        "title": "Curriculum-Entwicklung",
+        "description": "Individuell gestaltete Lernpläne und Materialien basierend auf persönlichen Lernprofilen und Bildungszielen."
+      }
+    ],
+
+    "cta": {
+      "title": "Bereit zu starten?",
+      "description": "Vereinbaren Sie ein Beratungsgespräch, um zu besprechen, wie wir den Lernweg Ihres Kindes unterstützen können.",
+      "button": "Kontakt aufnehmen"
+    }
+  },
+  "schools": {
+    "pageTitle": "Für Schulen & Pädagog:innen",
+    "pageDescription": "Arbeiten Sie mit uns zusammen, um inklusive Lernumgebungen zu schaffen, die alle Schüler:innen unterstützen – einschließlich neurodivergenter Lernender.",
+
+    "solutionsTitle": "Unsere Schulangebote",
+    "solutions": [
+      {
+        "title": "Fortbildungsprogramme für Lehrkräfte",
+        "description": "Professionelle Weiterbildungen, die Lehrkräften helfen, Neurodiversität zu verstehen und inklusive Unterrichtsstrategien umzusetzen.",
+        "features": [
+          "Autismus und ADHS im Klassenzimmer verstehen",
+          "Differenzierte Unterrichtsmethoden",
+          "Sensorisch freundliche Lernumgebungen schaffen"
+        ]
+      },
+      {
+        "title": "Zugang zur Ressourcenbibliothek",
+        "description": "Umfangreiche Sammlung evidenzbasierter Materialien, Unterrichtspläne und Bewertungsinstrumente für neurodivergente Lernende.",
+        "features": [
+          "Anpassbare Unterrichtspläne",
+          "Bewertungsrahmen",
+          "Leitfäden für Nachteilsausgleiche"
+        ]
+      },
+      {
+        "title": "Unterstützung direkt an der Schule",
+        "description": "Direkte Unterstützung für Schüler:innen durch Lernstandsanalysen, Förderplanung und Beratung.",
+        "features": [
+          "Lernstandsanalysen",
+          "Förderplanung",
+          "Unterstützende Gespräche"
+        ]
+      },
+      {
+        "title": "Schulberatung",
+        "description": "Strategische Partnerschaft zur Entwicklung schulweiter Inklusionskonzepte und nachhaltiger Unterstützungssysteme.",
+        "features": [
+          "Entwicklung von Schulkonzepten",
+          "Analyse der Lernumgebung",
+          "Coaching für Mitarbeitende"
+        ]
+      }
+    ],
+
+    "whyTitle": "Warum The Learning Field?",
+    "stats": [
+      {
+        "value": "100+",
+        "label": "Bildungseinrichtungen"
+      },
+      {
+        "value": "15+",
+        "label": "Jahre Erfahrung"
+      },
+      {
+        "value": "5000+",
+        "label": "Unterstützte Schüler:innen"
+      }
+    ],
+
+    "cta": {
+      "title": "Gemeinsam Schule verändern",
+      "description": "Kontaktieren Sie uns, um zu besprechen, wie wir Ihre Schule auf dem Weg zu inklusiver Bildung unterstützen können.",
+      "button": "Kontakt aufnehmen"
+    }
+  },
+  "about": {
+    "pageTitle": "Über The Learning Field",
+    "pageDescription": "Unsere Mission ist es, eine Welt zu schaffen, in der jedes Kind auf seine eigene Weise, in seinem eigenen Tempo und mit Unterstützung lernen kann, die seine individuellen Stärken würdigt.",
+
+    "story": {
+      "title": "Über uns",
+      "paragraphs": [
+        "The Learning Field wurde aus der Überzeugung gegründet, dass jedes Kind eine Bildung verdient, die seine individuellen Bedürfnisse, Stärken und sein Lernprofil würdigt.",
+        "Früh erkannte die Gründerin eine signifikante Lücke in spezialisierter, schulgebundener Unterstützung für neurodivergente Lernende – besonders im Zusammenspiel von Schule, Familie und Alltag. Diese Erkenntnis führte zur Gründung von The Learning Field: eine Praxis, die auf Respekt, Fachkompetenz und evidenzbasierten Ansätzen basiert.",
+        "Die Arbeit von The Learning Field wird durch gelebte und berufliche Erfahrung geprägt. Die Gründerin ist selbst ADHS-identifizierend (später diagnostiziert) und Mutter von zwei neurodivergenten Kindern. Seit 2016 arbeitet sie als Pädagogin in Früh- und Primarbereich in der Schweiz mit umfangreicher Erfahrung in Klassenmanagement, Schulsystemen und enger Zusammenarbeit mit Familien. Sie bringt zudem Leitungserfahrung aus der Schuladministration sowie fortgeschrittene Fachausbildung in Schulentwicklung, pädagogischer Leitung, ADHS und Autismus mit – einschließlich Ausbildungen in den USA.",
+        "Heute unterstützt The Learning Field Pädagog:innen, Schulen und Familien bei einem tieferen Verständnis neurodivergenter Kinder und bei der Schaffung praktischer, unterstützender Strategien für den schulischen Alltag. Der Ansatz entwickelt sich kontinuierlich weiter und wird durch aktuelle Forschung zu Neurodiversität und Bildung informiert – damit das \"Feld\" der Möglichkeiten für Kinder und die Erwachsenen, die sie unterstützen, weiter wachsen kann."
+      ],
+      "imageAlt": "Sabina Demuth, Gründerin"
+    },
+
+    "values": {
+      "title": "Unsere Werte",
+      "items": [
+        {
+          "icon": "fa-heart",
+          "title": "Mitgefühl",
+          "description": "Wir begegnen jedem Lernenden mit Empathie und Verständnis und respektieren seinen individuellen Weg."
+        },
+        {
+          "icon": "fa-flask",
+          "title": "Evidenzbasiert",
+          "description": "Unsere Methoden basieren auf Forschung und bewährten Praktiken in Neurodiversität und Bildung."
+        },
+        {
+          "icon": "fa-star",
+          "title": "Inklusiv",
+          "description": "Wir feiern Neurodiversität und individuelle Unterschiede als wertvolle Stärken."
+        },
+        {
+          "icon": "fa-handshake",
+          "title": "Partnerschaft",
+          "description": "Wir arbeiten eng mit Familien und Schulen zusammen, um eine ganzheitliche Unterstützung zu gewährleisten."
+        }
+      ]
+    },
+
+    "team": {
+      "title": "Leitung",
+      "founder": {
+        "name": "Sabina Demuth",
+        "role": "Gründerin & Lead Family Coach",
+        "bio": "Pädagogin mit umfangreicher Erfahrung in Klassenmanagement, Schulentwicklung und pädagogischer Leitung. Spezialisiert auf die Unterstützung von Kindern mit ADHS und Autismus mit starkem Fokus auf die Zusammenarbeit zwischen Schulen und Familien. The Learning Field wird professionell von mir geleitet und geführt. Für spezifische Fragen oder Fachbereiche arbeite ich je nach Bedarf mit ausgewählten externen Fachleuten und Institutionen zusammen.",
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400"
+      }
+    },
+
+    "cta": {
+      "title": "Werden Sie Teil unserer Gemeinschaft",
+      "description": "Ob Schüler:in, Elternteil, Lehrkraft oder Schulleitung – wir freuen uns darauf, mit Ihnen ins Gespräch zu kommen und gemeinsam Lernwege zu gestalten.",
+      "button": "Kontakt aufnehmen"
+    }
+  },
+  "contact": {
+    "pageTitle": "Kontakt aufnehmen",
+    "pageDescription": "Wir freuen uns, von Ihnen zu hören. Kontaktieren Sie uns, um zu besprechen, wie wir Ihren Lernweg oder die Bildungsziele Ihrer Schule unterstützen können.",
+
+    "form": {
+      "title": "Nachricht senden",
+      "name": "Name",
+      "email": "E-Mail",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "placeholders": {
+        "name": "Ihr Name",
+        "email": "ihre@email.com",
+        "message": "Erzählen Sie uns mehr über Ihr Anliegen..."
+      },
+      "subjects": [
+        "Schüler:innen-Unterstützung",
+        "Schulpartnerschaft",
+        "Allgemeine Anfrage",
+        "Sonstiges"
+      ],
+      "submit": "Nachricht senden"
+    },
+
+    "services": {
+      "title": "Angebotene Leistungen",
+      "items": [
+        {
+          "title": "Schulbegleitung & Professionelle Entwicklung",
+          "description": "Coaching- und professionelle Lernmöglichkeiten für Schulen und Pädagog:innen. Services werden international angeboten, mit primärem Fokus auf deutschsprachige Bildungskontexte.",
+          "icon": "fa-school"
+        },
+        {
+          "title": "Elternbegleitung & Familienunterstützung",
+          "description": "Internationales Online-Coaching und Anleitung für Familien, verfügbar in Englisch und Deutsch.",
+          "icon": "fa-heart"
+        },
+        {
+          "title": "Formate",
+          "description": "Coaching und Beratungen werden primär online durchgeführt. Persönliche Services für Schulen sind nach Absprache verfügbar. Ich bin in Colorado und Los Angeles ansässig und bin auf Anfrage für persönliches Coaching verfügbar.",
+          "icon": "fa-video"
+        }
+      ]
+    },
+
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Wie vereinbare ich ein Beratungsgespräch?",
+          "a": "Sie können direkt über unsere Website einen Termin buchen oder uns per E-Mail kontaktieren. Wir antworten in der Regel innerhalb von 24 Stunden."
+        },
+        {
+          "q": "In welchen Regionen bieten Sie Ihre Leistungen an?",
+          "a": "Wir sind in Wien und Umgebung tätig und bieten zusätzlich flexible Online-Unterstützung weltweit an."
+        },
+        {
+          "q": "Bieten Sie auch Online-Sitzungen an?",
+          "a": "Ja! Wir bieten ein hybrides Modell mit persönlichen und Online-Sitzungen an, abgestimmt auf Ihre Bedürfnisse."
+        },
+        {
+          "q": "Wie lautet Ihre Stornierungsrichtlinie?",
+          "a": "Wir bitten um 24 Stunden Vorankündigung bei Absagen, damit der Termin anderweitig genutzt werden kann."
+        }
+      ]
+    }
+  },
+  "register": {
+    "title": "Konto erstellen",
+    "subtitle": "Beginnen Sie Ihre Reise zur Meisterschaft",
+
+    "form": {
+      "fullName": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "password": "Passwort",
+      "confirmPassword": "Passwort bestätigen",
+      "passwordHint": "Mindestens 8 Zeichen mit Buchstaben und Zahlen",
+
+      "placeholders": {
+        "name": "Max Mustermann",
+        "email": "sie@beispiel.de",
+        "password": "••••••••"
+      },
+
+      "terms": {
+        "text": "Ich stimme den",
+        "terms": "Nutzungsbedingungen",
+        "and": "und der",
+        "privacy": "Datenschutzerklärung"
+      },
+
+      "submit": "Registrieren",
+      "divider": "Oder",
+      "google": "Mit Google registrieren",
+      "footer": {
+        "text": "Sie haben bereits ein Konto?",
+        "link": "Anmelden"
+      }
+    }
+  }
+
+
+}
