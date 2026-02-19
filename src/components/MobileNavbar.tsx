@@ -10,7 +10,7 @@ interface MobileNavbarProps {
   setOpen: (open: boolean) => void;
 }
 
-const MobileNavbar = ({ open, setOpen }: MobileNavbarProps) => {
+const MobileNavbar = ({ open, setOpen, calendlyOpen, setCalendlyOpen }: any) => {
   const searchParams = useSearchParams();
   const urlLang = searchParams.get("lang") as Locale | null;
   const lang = urlLang || getStoredLang();
@@ -75,16 +75,16 @@ const MobileNavbar = ({ open, setOpen }: MobileNavbarProps) => {
           </nav>
 
           {/* CTA */}
-          <a
-            href="https://calendly.com/your-calendly-link"
-            target="_blank"
-            rel="noopener noreferrer"
-            onClick={() => setOpen(false)}
+          <button
+            onClick={() => {
+              setOpen(false);
+              setTimeout(() => setCalendlyOpen(true), 300);
+            }}
             className="mt-10 flex items-center justify-center gap-2 bg-[#B48A5A] text-white px-5 py-2.5 rounded-md text-base font-semibold hover:bg-[#9F7E5D] transition-all hover:shadow-md"
           >
             <i className="fa-regular fa-calendar-check"></i>
             {t.header.actions.bookMeeting}
-          </a>
+          </button>
         </div>
       </aside>
     </>

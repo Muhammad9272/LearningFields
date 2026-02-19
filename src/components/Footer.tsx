@@ -93,49 +93,34 @@ const Footer = ({ lang = "en" }: FooterProps) => {
           <ul className="space-y-3 text-white">
             <li>
               <i className="fa-solid fa-envelope mr-2"></i>{" "}
-              {t.footer.contact.email}
-            </li>
-            <li>
-              <i className="fa-solid fa-phone mr-2"></i>{" "}
-              {t.footer.contact.phone}
+              <a href="mailto:office@thelearningfield.education" className="underline hover:text-white transition">office@thelearningfield.education</a>
             </li>
 
             {/* Social */}
             <li className="flex gap-5 pt-4 text-xl">
               <a
-                href="#"
-                aria-label={t.footer.social.facebook}
+                href="https://www.youtube.com/channel/UCulJS_5Doepf3Cvj-iOfcEg"
+                aria-label={t.footer.social.youtube}
                 className="hover:opacity-75 transition"
+                target="_blank" rel="noopener noreferrer"
               >
-                <i className="fa-brands fa-facebook"></i>
+                <i className="fa-brands fa-youtube"></i>
               </a>
               <a
-                href="#"
+                href="https://www.instagram.com/adhdwithsabina"
                 aria-label={t.footer.social.instagram}
                 className="hover:opacity-75 transition"
+                target="_blank" rel="noopener noreferrer"
               >
                 <i className="fa-brands fa-instagram"></i>
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/in/sabina-demuth/"
                 aria-label={t.footer.social.linkedin}
                 className="hover:opacity-75 transition"
+                target="_blank" rel="noopener noreferrer"
               >
                 <i className="fa-brands fa-linkedin"></i>
-              </a>
-              <a
-                href="#"
-                aria-label={t.footer.social.twitter}
-                className="hover:opacity-75 transition"
-              >
-                <i className="fa-brands fa-twitter"></i>
-              </a>
-              <a
-                href="#"
-                aria-label={t.footer.social.youtube}
-                className="hover:opacity-75 transition"
-              >
-                <i className="fa-brands fa-youtube"></i>
               </a>
             </li>
           </ul>

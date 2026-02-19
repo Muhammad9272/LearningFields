@@ -13,6 +13,7 @@ import Image from "next/image";
 const Header = ({ lang = "en" }: { lang?: Locale }) => {
   const t = getDictionary(lang);
   const [mobileOpen, setMobileOpen] = useState(false);
+  const [calendlyOpen, setCalendlyOpen] = useState(false);
     const pathname = usePathname();
   const searchParams = useSearchParams();
   const router = useRouter();
@@ -148,15 +149,13 @@ const Header = ({ lang = "en" }: { lang?: Locale }) => {
       </button>
     </div>
             {/* CTA */}
-            <a
-              href="https://calendly.com/"
-              target="_blank"
-              rel="noopener noreferrer"
+            <button
+              onClick={() => setCalendlyOpen(true)}
               className="hidden sm:flex items-center gap-2 bg-[#B48A5A] text-white px-5 py-2.5 rounded-md text-sm font-semibold hover:bg-[#9F7E5D] transition-all hover:shadow-md"
             >
               <i className="fa-regular fa-calendar-check"></i>
               {t.header.actions.bookMeeting}
-            </a>
+            </button>
           </div>
 
           {/* Mobile Menu Button */}
@@ -173,7 +172,27 @@ const Header = ({ lang = "en" }: { lang?: Locale }) => {
       </header>
 
       {/* Mobile Navbar */}
-      <MobileNavbar open={mobileOpen} setOpen={setMobileOpen} />
+      <MobileNavbar open={mobileOpen} setOpen={setMobileOpen} calendlyOpen={calendlyOpen} setCalendlyOpen={setCalendlyOpen} />
+      {/* Calendly Modal */}
+      {calendlyOpen && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-60">
+          <div className="bg-white rounded-lg shadow-lg p-0 relative w-full max-w-2xl h-[80vh] flex flex-col">
+            <button
+              className="absolute top-2 right-2 text-2xl text-gray-600 hover:text-black"
+              onClick={() => setCalendlyOpen(false)}
+              aria-label="Close"
+            >
+              &times;
+            </button>
+            <iframe
+              src="https://calendly.com/office-thelearningfield"
+              title="Book Your Meeting"
+              className="w-full h-full border-0 rounded-b-lg"
+              allow="camera; microphone;"
+            />
+          </div>
+        </div>
+      )}
       
     </>
   );
