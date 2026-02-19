@@ -9,11 +9,11 @@ export async function POST(req: Request) {
       return NextResponse.json({ error: "Missing required fields" }, { status: 400 });
     }
 
-    // Create transporter with Mailtrap SMTP
+    // Create transporter with Hostinger SMTP
     const transporter = nodemailer.createTransport({
-      host: process.env.MAIL_HOST || "sandbox.smtp.mailtrap.io",
-      port: parseInt(process.env.MAIL_PORT || "2525"),
-      secure: false, // use TLS
+      host: process.env.MAIL_HOST || "smtp.hostinger.com",
+      port: parseInt(process.env.MAIL_PORT || "465"),
+      secure: true, // use SSL
       auth: {
         user: process.env.MAIL_USERNAME,
         pass: process.env.MAIL_PASSWORD,
