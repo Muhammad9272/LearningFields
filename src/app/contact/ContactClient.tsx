@@ -121,7 +121,7 @@ export default function ContactClient() {
 
                   <div>
                     <label className="block text-sm font-semibold mb-3 text-charcoal">
-                      Subject
+                      {t.contact.form.subject}
                     </label>
                     <select
                       name="subject"
@@ -129,7 +129,7 @@ export default function ContactClient() {
                       onChange={handleChange}
                       className="w-full px-5 py-3 bg-gray-50 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-green/40 transition"
                     >
-                      <option value="">Select subject</option>
+                      <option value="">{t.contact.form.select}</option>
                       {t.contact.form.subjects.map((s: string, i: number) => (
                         <option key={i} value={s}>
                           {s}
@@ -140,7 +140,7 @@ export default function ContactClient() {
 
                   <div>
                     <label className="block text-sm font-semibold mb-3 text-charcoal">
-                      Message
+                       {t.contact.form.message}
                     </label>
                     <textarea
                       name="message"
@@ -156,12 +156,12 @@ export default function ContactClient() {
                   {/* status messages */}
                   {success && (
                     <p className="text-green-600 font-semibold p-4 bg-green-50 rounded-xl">
-                      ✓ Message sent successfully.
+                      {t.contact.form.success}
                     </p>
                   )}
                   {error && (
                     <p className="text-red-600 font-semibold p-4 bg-red-50 rounded-xl">
-                      Failed to send message. Please try again.
+                      {t.contact.form.error}
                     </p>
                   )}
 
@@ -169,7 +169,7 @@ export default function ContactClient() {
                     disabled={loading}
                     className="w-full bg-primary-green hover:bg-primary-green/90 text-white py-4 rounded-xl font-bold transition-all duration-300 disabled:opacity-50 disabled:cursor-not-allowed"
                   >
-                    {loading ? "Sending..." : t.contact.form.submit}
+                    {loading ? t.contact.form.sending : t.contact.form.submit}
                   </button>
                 </form>
               </div>

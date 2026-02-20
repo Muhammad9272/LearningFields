@@ -301,6 +301,10 @@
         "email": "ihre@email.com",
         "message": "Erzählen Sie uns mehr über Ihr Anliegen..."
       },
+      "select": "Thema auswählen",
+      "success": "✓ Nachricht erfolgreich gesendet.",
+      "error": "Fehler beim Senden der Nachricht. Bitte versuchen Sie es erneut.",
+      "sending": "Senden...",
       "subjects": [
         "Schüler:innen-Unterstützung",
         "Schulpartnerschaft",

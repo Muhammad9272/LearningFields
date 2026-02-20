@@ -300,6 +300,10 @@
         "email": "your@email.com",
         "message": "Tell us more about your inquiry..."
       },
+      "select": "Select subject",
+      "success": "✓ Message sent successfully.",
+      "error": "Failed to send message. Please try again.",
+      "sending": "Sending...",
       "subjects": [
         "Student Support",
         "School Partnership",
