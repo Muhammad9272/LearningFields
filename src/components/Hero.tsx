@@ -20,7 +20,7 @@ const lang = urlLang || getStoredLang();
       {/* MOBILE IMAGE (shown on small screens1) new updates */}
       <div className="w-full h-64 md:hidden select-none">
         <img
-          src="images/hero-img.jpg"
+          src="/images/hero-img.jpg"
           alt={t.hero.imageAlt}
           className="w-full h-full object-cover object-center"
         />
@@ -68,7 +68,7 @@ const lang = urlLang || getStoredLang();
       {/* RIGHT: FULL-BLEED IMAGE (DESKTOP ONLY) */}
       <div className="absolute top-0 right-0 h-full w-full md:w-[55vw] hidden md:block select-none">
         <img
-          src="images/hero-img.jpg"
+          src="/images/hero-img.jpg"
           alt={t.hero.imageAlt}
           className="h-full w-full object-cover object-center"
         />
