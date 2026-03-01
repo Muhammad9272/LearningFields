@@ -65,7 +65,7 @@ const lang = urlLang || getStoredLang();
         </div>
       </div>
 
-      {/* RIGHT: FULL-BLEED IMAGE (DESKTOP ONLY) */}
+      {/* RIGHT: FULL-BLEED IMAGE (DESKTOP ONLY5656) */}
       <div className="absolute top-0 right-0 h-full w-full md:w-[55vw] hidden md:block select-none">
         <img
           src="/images/hero-img.jpg"
@@ -73,7 +73,7 @@ const lang = urlLang || getStoredLang();
           className="h-full w-full object-cover object-center"
         />
 
-        {/* FADE INTO TEXT */}
+        {/* FADE INTO TEXT 565*/}
         <div
           className="
             absolute inset-y-0 left-0
