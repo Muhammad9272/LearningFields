@@ -17,6 +17,15 @@ const lang = urlLang || getStoredLang();
 
   return (
     <section className="relative bg-white overflow-hidden">
+      {/* MOBILE IMAGE (shown on small screens) */}
+      <div className="w-full h-64 md:hidden select-none">
+        <img
+          src="images/hero-img.jpg"
+          alt={t.hero.imageAlt}
+          className="w-full h-full object-cover object-center"
+        />
+      </div>
+
       {/* TEXT CONTAINER */}
       <div className={`relative z-10 ${CONTAINER_CLASSES}`}>
         <div className="grid grid-cols-1 md:grid-cols-2 min-h-[480px] md:min-h-[620px] items-center">
