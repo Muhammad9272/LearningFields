@@ -17,7 +17,7 @@ const lang = urlLang || getStoredLang();
 
   return (
     <section className="relative bg-white overflow-hidden">
-      {/* MOBILE IMAGE (shown on small screens) */}
+      {/* MOBILE IMAGE (shown on small screens1) new updates */}
       <div className="w-full h-64 md:hidden select-none">
         <img
           src="images/hero-img.jpg"
